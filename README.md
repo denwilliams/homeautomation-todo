@@ -28,3 +28,4 @@
 
 Alternatively:
 - https://bitbucket.org/xoseperez/rentalito-esp8266
+- https://github.com/prysme01/DotMatrixDisplay
