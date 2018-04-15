@@ -19,3 +19,8 @@
 ## Android Display
 
 - Show (selective) current state of system on an Android tablet
+
+## Dot Matrix LED Display
+
+- Using https://www.ebay.com.au/itm/16x32-Dot-Matrix-DIY-Kit-Red-Green-Dual-Color-Control-LED-Display-Module/262999519081?hash=item3d3bfe2f69:g:UnYAAOSwX9FZJAQd
+- Use RPi ZW via MQTT to update display
