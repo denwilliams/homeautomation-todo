@@ -25,3 +25,6 @@
 - Using https://www.ebay.com.au/itm/16x32-Dot-Matrix-DIY-Kit-Red-Green-Dual-Color-Control-LED-Display-Module/262999519081?hash=item3d3bfe2f69:g:UnYAAOSwX9FZJAQd
 - Use RPi ZW via MQTT to update display
 - https://learn.adafruit.com/connecting-a-16x32-rgb-led-matrix-panel-to-a-raspberry-pi/overview
+
+Alternatively:
+- https://bitbucket.org/xoseperez/rentalito-esp8266
