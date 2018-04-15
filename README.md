@@ -15,3 +15,7 @@
 
 - Prevent specific automation tasks while active, eg keep the outdoor lights on while you're outside, but use motion sensors when you're not.
 - Expiring states, eg set that you're outside for 2 hours to modify the state of automation behaviour
+
+## Android Display
+
+- Show (selective) current state of system on an Android tablet
