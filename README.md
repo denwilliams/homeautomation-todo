@@ -8,8 +8,8 @@
 
 ## RF433 Motion Sensor Network
 
-- ~~Use Sonoff RF Bridge with custom firmware (http://tinkerman.cat/hacking-sonoff-rf-bridge-433/ https://github.com/arendst/Sonoff-Tasmota/wiki/Sonoff-RF-Bridge-433)
-- Use cheap RF PIR sensors~~
+- ~~Use Sonoff RF Bridge with custom firmware (http://tinkerman.cat/hacking-sonoff-rf-bridge-433/ https://github.com/arendst/Sonoff-Tasmota/wiki/Sonoff-RF-Bridge-433)~~
+- ~~Use cheap RF PIR sensors~~
 
 ## State Modifier Service
 
